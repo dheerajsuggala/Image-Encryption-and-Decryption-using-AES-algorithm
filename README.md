@@ -6,10 +6,17 @@ Developed a program that encrypts and decrypts the image files accurately. This 
 
 
 Recommended to used Linux based machine to avoid unexpected errors.
+
 System: Ubuntu18.04.2 on Oracle VM VirtualBox
+
 Python version: 2.7.17
+
 Libraries used:
+
 numpy 1.13.3
+
 Pillow 9.0.0
+
 pycryptodome 3.12.0
+
 Tkinter [linux command: sudo apt-get install python-tk]
